@@ -1,0 +1,14 @@
+{
+  "name": "32a2f15299334f54",
+  "main": "32a2f15299334f54@85.js",
+  "version": "85.0.0",
+  "homepage": "https://observablehq.com/d/32a2f15299334f54",
+  "author": {
+    "name": "Akiko Iwamizu",
+    "url": "https://observablehq.com/@akikoiwamizu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
